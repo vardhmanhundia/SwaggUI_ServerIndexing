@@ -34,7 +34,7 @@ These instructions will get you a copy of the project up and running on your loc
 APIs in the project over the links `http://localhost:9090/v2/api-docs` for basic documentation and `http://localhost:9090/swagger-ui.html#/`
 for Swaggi UI post.You can see a sample image below.
 
-![SwaggUI Output](https://github.com/vardhmanhundia/SwaggUI_ServerIndexing/blob/master/images/serverRunning.PNG)
+![SwaggUI Output](https://github.com/vardhmanhundia/SwaggUI_ServerIndexing/blob/master/images/swaggUI.jpg)
 
 ## Further Versions
 Please CheckOut the updated versions for this project
