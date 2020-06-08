@@ -38,6 +38,8 @@ for Swaggi UI post.You can see a sample image below.
 
 ## Further Versions
 Please CheckOut the updated versions for this project
-- [SpringBoot_MongoDB](https://github.com/vardhmanhundia/ServerIndexing_springBot)
-- [Server Index Dockerized](https://github.com/vardhmanhundia/ServerIndex_Dockerized)
-- [Server_Index React App](https://github.com/vardhmanhundia/ServerIndexing_ReactApp)
+### Previous Versions
+- [SpringBoot_MongoDB](https://github.com/vardhmanhundia/SpringBootMongodb_serverIndexing)
+### Updated Versions
+- [Server Index Dockerized](https://github.com/vardhmanhundia/ServerIndexing_Dockerized)
+- [Server_Index React App](https://github.com/vardhmanhundia/serverIndex_ReactApplication)
